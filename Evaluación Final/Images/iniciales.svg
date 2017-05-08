@@ -1,0 +1,18 @@
+<svg width="320" height="99" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="322" height="101" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_5" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#E6C36A" stroke="#000" stroke-width="0" x="13.5" y="88" id="svg_1" font-size="101" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve">O</text>
+  <text fill="#A0D58A" stroke="#000" stroke-width="0" x="95.5" y="88" id="svg_2" font-size="101" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve">E</text>
+  <text fill="#33666C" stroke="#000" stroke-width="0" x="174.5" y="88" id="svg_3" font-size="101" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve">C</text>
+  <text fill="#8391AE" stroke="#000" stroke-width="0" x="259.5" y="88" id="svg_4" font-size="101" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve">P</text>
+ </g>
+</svg>
